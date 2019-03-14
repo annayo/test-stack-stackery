@@ -5,7 +5,7 @@
       "type": "function",
       "x": 410,
       "y": 220,
-      "name": "Hello",
+      "name": "Hi",
       "outputs": 1,
       "memorySize": 128,
       "timeout": 30,
