@@ -56,6 +56,15 @@
           "c4f32788"
         ]
       ]
+    },
+    {
+      "id": "F0DA0D54",
+      "type": "virtualNetwork",
+      "x": 379,
+      "y": 266,
+      "width": 600,
+      "height": 400,
+      "ipRange": "10.0.0.0/16"
     }
   ]
 }
