@@ -1,8 +1,0 @@
-
-{
-  "name": "4563d34f",
-  "version": "1.0.0",
-  "dependencies": {
-    "aws-sdk": "~2"
-  }
-}
