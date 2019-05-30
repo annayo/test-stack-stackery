@@ -56,6 +56,21 @@
           "c4f32788"
         ]
       ]
+    },
+    {
+      "id": "F1D8F5DB",
+      "type": "function",
+      "x": 271,
+      "y": 128,
+      "width": 100,
+      "height": 35,
+      "name": "test-stack-1-development-Function2",
+      "reference": {
+        "arn": "arn:aws:lambda:us-west-2:742569024070:function:test-stack-1-development-Function2"
+      },
+      "wires": [
+        []
+      ]
     }
   ]
 }
