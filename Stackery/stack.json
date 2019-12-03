@@ -72,6 +72,26 @@
       "wires": [
         []
       ]
+    },
+    {
+      "id": "367CB774",
+      "type": "restApiEndpoint",
+      "x": 213,
+      "y": 378,
+      "width": 100,
+      "height": 35,
+      "path": "/",
+      "wires": [
+        []
+      ]
+    },
+    {
+      "id": "437BFF2D",
+      "type": "http",
+      "x": 232,
+      "y": 385,
+      "width": 240,
+      "height": 160
     }
   ]
 }
